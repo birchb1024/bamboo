@@ -1,0 +1,5 @@
+password = "bcdef1231"
+password = 'deadbeef"
+password = `deadbeefff`
+
+token = ''
